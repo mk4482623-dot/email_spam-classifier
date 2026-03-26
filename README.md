@@ -40,6 +40,9 @@ sms-spam-classifier/
 ├── model.pkl
 ├── vectorizer.pkl
 ├── requirements.txt
+├── images/
+│   ├── wordcloud.png
+│   └── model_comparison.png
 └── .gitignore
 ```
 
@@ -54,11 +57,36 @@ sms-spam-classifier/
 
 ---
 
+## 🏆 Model Comparison
+
+Multiple models were trained and evaluated:
+
+* Naive Bayes
+* Logistic Regression
+* Support Vector Machine (SVM)
+
+Naive Bayes performed best in terms of **accuracy and precision**, making it the final selected model.
+
+### 📈 Performance Comparison Table
+
+![Model Comparison](images/model_comparison.png)
+
+---
+
+## ☁️ Word Cloud Visualization
+
+Word clouds were generated during Exploratory Data Analysis (EDA) to visualize the most frequent words in spam and non-spam messages.
+
+![Word Cloud](images/wordcloud.png)
+
+---
+
 ## 🟢 Live Demo
 
 👉 https://emailspam-classifier-nun.streamlit.app/
 
 ---
+
 
 ## 🤝 Contributing
 
