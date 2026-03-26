@@ -68,8 +68,7 @@ Multiple models were trained and evaluated:
 Naive Bayes performed best in terms of **accuracy and precision**, making it the final selected model.
 
 ### 📈 Performance Comparison Table
-
-![Model Comparison](images/model_comparison.png)
+<img width="373" height="487" alt="image" src="https://github.com/user-attachments/assets/72ecab7f-e89c-4b0b-a352-2198df13b5b7" />
 
 ---
 
