@@ -78,6 +78,7 @@ Naive Bayes performed best in terms of **accuracy and precision**, making it the
 Word clouds were generated during Exploratory Data Analysis (EDA) to visualize the most frequent words in spam and non-spam messages.
 ## Words used mainly in Spam messages-
 <img width="425" height="418" alt="download" src="https://github.com/user-attachments/assets/06f42cc5-24be-4551-bf62-bcc4cd6ec954" />
+
 ## Words used mainly in Not-Spam messages-
 <img width="425" height="418" alt="download (1)" src="https://github.com/user-attachments/assets/b2663a88-461e-4aed-8a23-aa50518f259e" />
 
